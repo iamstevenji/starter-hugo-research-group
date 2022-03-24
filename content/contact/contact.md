@@ -50,7 +50,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
- design:
+design:
   columns: '1'
 ---
 
