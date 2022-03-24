@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Product
-    url: event
+    url: product
     weight: 40
 #  - name: Publications
 #    url: publication
