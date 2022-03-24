@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Nutritional Top. This work is licensed under {license}'
+    notice: '© {year} Nutritional Top
     license:
       enable: false
       allow_derivatives: false
