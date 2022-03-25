@@ -24,7 +24,7 @@ content:
     postcode: '315016'
     country: China
     country_code: CN
-  coordinates:
+  #coordinates:
     latitude: '29.8944'
     longitude: '121.5183'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
