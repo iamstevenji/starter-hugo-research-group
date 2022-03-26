@@ -6,7 +6,7 @@
 title: Nutritional Top # Website name
 baseURL: 'https://nutritional.top/' # Website URL
 
-path: /post/**
+path: /content/post/**
 editable: true
 reading_time: true
 commentable: true
