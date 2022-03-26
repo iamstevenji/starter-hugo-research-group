@@ -92,7 +92,7 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-  #map:
+  map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
