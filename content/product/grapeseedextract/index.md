@@ -1,8 +1,6 @@
 ---
 title: Grape Seed Extract
 commentable: true
----
-
 product: Wowchemy Conference
 event_url: https://example.org
 
