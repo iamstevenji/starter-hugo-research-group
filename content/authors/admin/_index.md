@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Daoguang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CEO
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Nutritional Top
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
