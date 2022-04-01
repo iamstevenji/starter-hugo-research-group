@@ -68,4 +68,12 @@ user_groups:
 - Researchers
 ---
 
-Engaged in biotechnology development and research on plant extracts for a long time
+1. Research life engineering aspects with company life scientists, chemists and medical scientists;
+1. Learn to apply the principles of engineering and biobehavioral science to design and develop medical diagnostic procedures and clinical machines and equipment;
+1. Develop computer systems to simulate human behavior to obtain data for measuring or controlling life processes;
+1. Evaluate the safety, rapidity and effectiveness of biomedical equipment;
+1. Installation, adjustment and maintenance of biomedical equipment;
+1. Research on substitute materials for human transplant organs;
+1. Adopt or design computer hardware or software for the application of medical knowledge;
+1. Make suggestions to company managers on plans, use of medical equipment, etc.;
+1. Analyze new medical procedures to predict likely outcomes, design and apply technologies to help people with disabilities, and more.
