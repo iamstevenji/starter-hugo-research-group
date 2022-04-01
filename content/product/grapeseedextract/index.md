@@ -54,6 +54,7 @@ slides:
 projects:
 ---
 ## Specifications
+---
 
 **Latin Name**:*Vitis vinifera Linn*
 
@@ -80,6 +81,7 @@ projects:
  
 
 ## Gerneral feature
+---
 
 1. Our product has passed the ID test by ChromaDex, Alkemist Lab. and otherthird-party authoritative testing institutions, such as detection;
 2. The pesticide residues match (EC) No 396/2005 USP34, EP8.0, FDA and other foreign pharmacopoeia standards and regulations;
@@ -91,6 +93,7 @@ projects:
 1. OPCs over 95%, polyphenol over 70%, high activity, the oxidation resistance is strong, the ORAC more than 11000.
 
 ## Function
+---
 
 **Grapes** (*Vitis vinifera*) have been heralded for their medicinal and nutritional value for thousands of years. Egyptians ate grapes a very long time back, and several ancient Greek philosophers spoke about the healing power of grapes — usually in the form of wine. European folk healers made an ointment from the sap of grapevines to treat skin and eye diseases. Grape leaves were used to stop bleeding, inflammation, and pain, such as the kind brought on by hemorrhoids. Unripe grapes were used to treat sore throats, and dried grapes (raisins) were used for constipation and thirst. Round, ripe, sweet grapes were used to treat a range of health problems including cancer, cholera, smallpox, nausea, eye infections, and skin, kidney, and liver diseases.
 
