@@ -1,10 +1,10 @@
 ---
 title: Grape Seed Extract
 commentable: true
-product: Wowchemy Conference
-event_url: https://example.org
+product: Grape Seed Extract
+product_url: https://nutritional.top/product/grapeseedextract/
 
-#location: Wowchemy HQ
+# location: Wowchemy HQ
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,7 +12,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+
+# summary: An example event.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -78,7 +79,7 @@ projects:
 
 **Package**:Packed in paper-drums and two plastic-bags inside.
 
- 
+---
 
 ## Gerneral feature
 ---
@@ -91,7 +92,7 @@ projects:
 1. Our company set up a branch and import raw materials directly from Europe with strict control of heavy metal and pesticide residue. Aslo ensure the procyanidins content in grape seed is more than 8.0%.
 
 1. OPCs over 95%, polyphenol over 70%, high activity, the oxidation resistance is strong, the ORAC more than 11000.
-
+---
 ## Function
 ---
 
