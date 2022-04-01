@@ -17,7 +17,7 @@ subtitle:
 
 design:
   columns: "1"
-  background:
+  # background:
     image: coders.jpg
     image_darken: 0
     image_parallax: false
