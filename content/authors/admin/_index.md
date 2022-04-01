@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include herbal extract, plant biotech and nutritional research.
 
 interests:
-- Herbal extract
+- Natural Plant Extract
 - Biotech
 - Nutritional research
 
