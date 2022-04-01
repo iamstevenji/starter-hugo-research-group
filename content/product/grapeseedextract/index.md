@@ -4,7 +4,7 @@ commentable: true
 product: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+#location: Wowchemy HQ
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -30,7 +30,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
+#image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
@@ -53,11 +53,47 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+## Specifications
 
-Slides can be added in a few ways:
+**Latin Name**:*Vitis vinifera Linn*
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+**Plant Source**:Grape seed
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+**Specifications**:95%OPCs；45-90% polyphenols
+
+**Appearance**:Red brown powder
+
+**Plant Part Used**:seed
+
+**Loss on drying**:≤5.0%
+
+**Heavy Metal**:≤10PPM
+
+**Pesticide residue**:EC396-2005, USP 34, EP 8.0, FDA
+
+**Storage**:Store in cool & dry area, keep away from the direct light and heat.
+
+**Shelf life**:24 Months
+
+**Package**:Packed in paper-drums and two plastic-bags inside.
+
+ 
+
+## Gerneral feature
+
+1. Our product has passed the ID test by ChromaDex, Alkemist Lab. and otherthird-party authoritative testing institutions, such as detection;
+2. The pesticide residues match (EC) No 396/2005 USP34, EP8.0, FDA and other foreign pharmacopoeia standards and regulations;
+
+3. The heavy metals in strict accordance with the foreign pharmacopoeia standard controls, such as USP34, EP8.0, FDA, etc.;
+ 
+1. Our company set up a branch and import raw materials directly from Europe with strict control of heavy metal and pesticide residue. Aslo ensure the procyanidins content in grape seed is more than 8.0%.
+
+1. OPCs over 95%, polyphenol over 70%, high activity, the oxidation resistance is strong, the ORAC more than 11000.
+
+## Function
+
+**Grapes** (*Vitis vinifera*) have been heralded for their medicinal and nutritional value for thousands of years. Egyptians ate grapes a very long time back, and several ancient Greek philosophers spoke about the healing power of grapes — usually in the form of wine. European folk healers made an ointment from the sap of grapevines to treat skin and eye diseases. Grape leaves were used to stop bleeding, inflammation, and pain, such as the kind brought on by hemorrhoids. Unripe grapes were used to treat sore throats, and dried grapes (raisins) were used for constipation and thirst. Round, ripe, sweet grapes were used to treat a range of health problems including cancer, cholera, smallpox, nausea, eye infections, and skin, kidney, and liver diseases.
+
+ 
+
+**Grape seed extract** are industrial derivatives from whole grape seeds that have a great concentration of vitamin E, flavonoids, linoleic acid and phenolic OPCs. The typical commercial opportunity of extracting grape seed constituents has been for chemicals known as polyphenols having antioxidant activity in vitro.
