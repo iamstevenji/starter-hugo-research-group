@@ -13,8 +13,8 @@ address:
   country: United States
 
 
-# summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: 95%OPCs；45-90% polyphenols
+abstract: "Grape seed extracts are industrial derivatives from whole grape seeds that have a great concentration of vitamin E, flavonoids, linoleic acid and phenolic OPCs. The typical commercial opportunity of extracting grape seed constituents has been for chemicals known as polyphenols having antioxidant activity in vitro."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
