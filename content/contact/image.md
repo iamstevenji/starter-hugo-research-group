@@ -12,7 +12,7 @@ weight: 20
 title:
 subtitle:
 
-#design:
+design:
   columns: "1"
   background:
     image: contact.jpg
@@ -21,8 +21,9 @@ subtitle:
     image_position: center
     image_size: cover
     text_color_light: true
-  #spacing:
+  spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
 ---
+

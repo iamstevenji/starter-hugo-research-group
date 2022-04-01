@@ -51,6 +51,7 @@ content:
 
 design:
   columns: '1'
+
 ---
 
 If you have any questions about the product,please contact us by leaving a message or email.We will reply in the shortest time.
