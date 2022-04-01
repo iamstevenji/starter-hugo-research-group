@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Administration
 ---
 
 1. Responsible for the daily administrative management of the company, and do a good job of communication and coordination inside and outside the company and between the top and bottom of the company.
